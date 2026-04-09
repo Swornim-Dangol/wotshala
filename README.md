@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Wotshala</h1>
-<h3 align="center">UI/UX Designer • Visual Thinker</h3>
+<div align="center">
+  <img src="assets/background.gif" width="100%" alt="banner" />
+</div>
+
+<hr>
+
+<h3 align="center">About Me</h3>
 
 - 🌱 I’m currently learning **Advanced UX research & interaction design**
 
@@ -9,10 +14,31 @@
 
 - ⚡ Fun fact **I enjoy turning complex ideas into simple designs.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<hr>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
+<img src="https://skillicons.dev/icons?i=c,cs,css,html,java,javascript,mysql,php,python,react,figma&perline=5" />
+</p>
+
+<hr>
+
+<h3 align="center">Activity Overview</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wotshala&theme=tokyonight&hide_border=true&background=0d1117&ring=4facfe&fire=a855f7&currStreakLabel=4facfe" width="49%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wotshala&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=4facfe&line=a855f7&point=ffffff" width="100%" alt="Activity Graph" />
+</p>
+
+<hr>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/wotshalasingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wotshalasingh" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,50:7b2ff7,100:ff6ec7&height=120&section=footer" alt="Footer" />
+</div>
